@@ -1,0 +1,22 @@
+Architecture Diagram Overview:
+1. [Farm Environment] 
+(Aquaponics, Aeroponics, Drip Irrigation)
+
+2. [Integrated Systems]
+(Water Quality, Nutrient Delivery, Water flow)
+
+3. [Sensor Network & Data Collection] 
+(Soil Moisture, Nutrient Levels, Environmental Sensors, Cameras)
+
+
+4. [Edge Devices & Data Pre-processing]   
+(Arduino or Raspberry Pi)
+       
+5. [ML Model & Predictive Analytics] 
+(Data Collection, Data Cleaning, Model Training, Predictions)
+
+6. [Control Systems] 
+(Automated Irrigation, Nutrient Management) 
+                                                  
+7. [User Interface]
+(Mobile App, Web Dashboard)  
